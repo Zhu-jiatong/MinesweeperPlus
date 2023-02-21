@@ -11,3 +11,6 @@ How to Play?
 - Move syntax: `[horizontal coordinate (integer)] [coordinate (integer)] [move type (integer)]`
   - Move type `0`: Flag the square
   - Move type `1`: Open the square
+  
+  Example: 
+![image](https://user-images.githubusercontent.com/98582814/220234381-c91fe997-6952-4ea9-9aa6-59e6352214de.png)
