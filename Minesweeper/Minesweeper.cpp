@@ -23,7 +23,8 @@ int main(int argc, char* argv[])
 		int32_t x = -1, y = -1, move = static_cast<int32_t>(Action::REVEAL);
 		std::cout << "Move: ";
 		std::cin >> x >> y >> move;
-		if (x < 0) 
+		std::cin.get();
+		if (x < 0)
 		{
 			gameStatus = GameResult::EXIT;
 			break;
@@ -54,6 +55,7 @@ std::string resultToString(GameResult result)
 		return "Ongoing...";
 		break;
 	default:
+		return "Unknown...";
 		break;
 	}
 }
