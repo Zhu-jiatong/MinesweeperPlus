@@ -32,7 +32,7 @@ enum class SquareState
 const std::string MINE_SQUARE_SYMBOL = "x";
 const std::string SAFE_SQUARE_SYMBOL = " ";
 const std::string COVERED_SQUARE_SYMBOL = "#";
-const std::string MARKED_SQUARE_SYMBOL = "!";
+const std::string MARKED_SQUARE_SYMBOL = "?";
 
 const std::array<Vector, 8> detectionSequence{ {
 	{1, 1},
