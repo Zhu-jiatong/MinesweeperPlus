@@ -13,4 +13,4 @@ How to Play?
   - Move type `1`: Open the square
   
   Example: 
-![image](https://user-images.githubusercontent.com/98582814/220234381-c91fe997-6952-4ea9-9aa6-59e6352214de.png)
+![image](https://user-images.githubusercontent.com/98582814/220235147-9f7bed40-45da-422c-8e1a-ae333c17d830.png)
