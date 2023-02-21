@@ -10,6 +10,7 @@ How to use?
 How to Play?
 - In "Move" field below game board, entery your move
 - Move syntax: `[horizontal coordinate (integer)] [coordinate (integer)] [move type (integer)]`
+  - Enter a negative integer for `[horizontal coordinate (integer)]` to exit the game immediatly
   - Move type `0`: Flag the square
   - Move type `1`: Open the square
   
